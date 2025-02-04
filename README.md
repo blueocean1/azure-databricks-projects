@@ -1,1 +1,1 @@
-# azure-databricks-spark-core
+# azure-databricks-projects
